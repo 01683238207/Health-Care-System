@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyHealthApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calc">Calculate Result</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="qustion">Questionnaire Result</string>
+    <string name="application_name">Health Care System</string>
+</resources>
